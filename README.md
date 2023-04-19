@@ -1,4 +1,4 @@
-# cicdapp for MLOps Project V6
+# cicd app for MLOps Project V6
 
 ## Project setup for devops implementation
 ```
@@ -10,7 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles the code and minifies for production
 ```
 npm run build
 ```
