@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Generate ML Infe</h1>
+    <h1>Generate MLops</h1>
 	<h2>Upload your data to make to getinference </h2>
     <img
       alt="Vue logo"
