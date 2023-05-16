@@ -1,6 +1,6 @@
 # cicdapp for MLOps Project V6
 
-## Project setup for devops implementation
+## Project setup for devops implementation 
 ```
 npm install
 ```
